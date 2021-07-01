@@ -1,5 +1,9 @@
 package Page;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> header
 import org.openqa.selenium.WebDriver;
 
 public class PageMain {
@@ -7,4 +11,8 @@ public class PageMain {
 	String URL;
 	
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> header

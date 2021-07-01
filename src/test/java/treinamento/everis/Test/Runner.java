@@ -6,7 +6,13 @@ public class Runner{
 	
 	public static void gera() {}
 	
-	String nomess;
+	String url;
+	Integer registro;
+	
+	Runner(String url){
+		this.url = url;
+	}
+	
 
 }
 		
