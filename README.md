@@ -1,5 +1,4 @@
-# Git-Github-Alura
-# Treinamento de Git e Github no curso da alura
+# Treinamento de Git e Github no curso da <a href="https://cursos.alura.com.br/course/git-github-controle-de-versao">ALURA</a>
 
 # Aprendizados
 
