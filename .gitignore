@@ -1,3 +1,4 @@
 text
 .class
 .gitignore
+/target/
